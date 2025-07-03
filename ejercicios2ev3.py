@@ -8,7 +8,7 @@ while True:
     print("2. Comprar una cantidad de entradas")
     print("3. Devolver entradas")
     print("4. Salir del sistema")
-    opc=input("selecciona una opcion (1-4): ")
+    opc=input("sselecciona una opcion (1-4): ")
     if opc=="1":
         while True:
             print("cantidad de entradas disponibles: ",cantidad_entradas)
