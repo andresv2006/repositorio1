@@ -1,6 +1,4 @@
-cantidad_entradas=100
-entradas_vendidas=0
-entradas_devueltas=0
+
 while True:
     print("***** Cine Estrella *****")
     print("Bienvenido al sistema de Cine Estrella")
