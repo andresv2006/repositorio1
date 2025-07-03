@@ -42,4 +42,3 @@ while True:
     else:
         print ("opcion no valida")
         break
-    print ("hola")
